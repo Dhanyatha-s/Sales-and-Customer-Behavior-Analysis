@@ -57,7 +57,7 @@ Product P003 has to restock or reload the product as its the one whcih is sold m
 
 ### 4.Recommendations
 >[!Important]
-> Need a attentions to the marketing strategies for least sold produdt P003(Under Performing in East and west) regions.  
+> Need a attention to the marketing strategies for least sold produdt P003(Under Performing in East and west) regions.  
 > Focus on expanding the Electronics product 
 
 ## Conclusion
