@@ -27,7 +27,8 @@ These are the criteria that a company will have,
 based on these we are analysing with the given Problem  
 ## How we are Analysing!!  
 ### 1. Understand the concepts
-### 1st Objective : Find the Top Selling Product  
+-------------------------------
+### Find the Top Selling Product  
 ![image](https://github.com/user-attachments/assets/fd32bc18-3784-41d3-96b8-a89b5697c3b1)
 
 ### Analysing Customer behavior
@@ -35,11 +36,32 @@ based on these we are analysing with the given Problem
 
 ### Inventory Management
 ![image](https://github.com/user-attachments/assets/22e22928-ec14-4bb9-85f5-02f4ed861082)
+-------------------------------
 
-### Perform the Analysis
+### 2. Perform the Analysis
+> `Check the Code`
 
+### 3.Insights From Analysis
+-------------------------------
+### Customer Segmentation:   
+Most customers fall into Segment 0, indicating a lower purchase volume, while only a few customers (C002) make up the highest sales segment (Segment 1).  
+### Product Performance:  
+Product P002 is the top-selling product, contributing over 40% of the total sales. Focusing marketing efforts on such high-performing products could boost sales.   
+Most of the products from P002 are sold in East Region which shows lead in Sales.  
+### Sales Trends:  
+There is a noticeable peak in sales on specific dates (e.g., 2024-07-05), which could be due to promotions or other events. Identifying these trends helps in planning future sales strategies.
+### Revenue  
+Among the categories 'Apperal's are the most Procduct Sold and Generated more Revenue its Evident that Product ID P002 is Top Selling product, more sales in East Region and highest revenue generating Product.
+### Inventory management
+Product P003 has to restock or reload the product as its the one whcih is sold more in Quantity (TotalQuantitySold = 5).  
 
+### 4.Recommendations
+>[!Important]
+> Need a attentions to the marketing strategies for least sold produdt P003(Under Performing in East and west) regions.  
+> Focus on expanding the Electronics product 
 
+## Conclusion
+This report highlights the key findings from the sales data analysis, including customer segmentation, product performance, and sales trends, optimization of Invemtory management. These insights can help in making informed business decisions to enhance sales and customer engagement.
 
 
 
