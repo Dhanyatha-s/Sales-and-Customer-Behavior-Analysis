@@ -1,4 +1,7 @@
 # Sales-and-Customer-Behavior-Analysis
+## Overview  
+Sales and customer behavior analysis involves examining sales data and customer interactions to gain insights into purchasing patterns, preferences, and trends. By analyzing this data, businesses can understand what drives customer decisions, predict future sales, and optimize strategies for better targeting, pricing, and product offerings. Key metrics include purchase frequency, average order value, customer lifetime value, and response to promotions. This analysis helps companies improve customer satisfaction, increase sales, and build more effective marketing campaigns based on behavior-driven insights.  
+
 > What is in this data and how we are solving this
 ### Here is the flow diagram how i'm going to solve
 ![image](https://github.com/user-attachments/assets/4c8bc78f-0c66-4df4-ae74-9acf535359c0)
